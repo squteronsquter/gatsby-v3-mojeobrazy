@@ -11,9 +11,9 @@ export const Layout = ({ children }) => {
         <Navbar />
         {children}
         <p className="text heading">
-          Lorem ipsum dolor sit amet{" "}
+          Stronę zbudowała firma{" "}
           <a className="link" href="https://dms.codes">
-            My Link
+            Digital Mind Solutions LTD
           </a>
         </p>
         <Footer />
