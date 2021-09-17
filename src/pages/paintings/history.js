@@ -1,11 +1,12 @@
 import React from "react"
-import { Link } from "gatsby"
+import Layout from "../../components/Layout"
 
 export default function history() {
   return (
     <>
-      <h1> Obrazy > Historia</h1>
-      <Link to="/">Strona główna</Link>
+      <Layout>
+        <h1>Historia</h1>
+      </Layout>
     </>
   )
 }
