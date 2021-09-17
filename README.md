@@ -103,3 +103,25 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby framework that combines a modern developer experience with an optimized, global edge network.
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+## GitHub starter
+
+…or create a new repository on the command line
+
+echo "# gatsby-v3-mojeobrazy" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/squteronsquter/gatsby-v3-mojeobrazy.git
+git push -u origin main
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/squteronsquter/gatsby-v3-mojeobrazy.git
+git branch -M main
+git push -u origin main
+
+…or import code from another repository
+
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
